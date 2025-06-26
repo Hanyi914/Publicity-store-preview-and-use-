@@ -1,0 +1,151 @@
+{
+  "name": "Noi Mode",
+  "version": "0.3.1",
+  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+  "modes": [
+    {
+      "id": "noi@ai",
+      "parent": 0,
+      "dir": true,
+      "text": "AI"
+    },
+    {
+      "id": "noi@dev",
+      "parent": 0,
+      "dir": true,
+      "text": "Dev"
+    },
+    {
+      "id": "noi@community",
+      "parent": 0,
+      "dir": true,
+      "text": "Community"
+    },
+    {
+      "id": "noi@video",
+      "parent": 0,
+      "dir": true,
+      "text": "Video"
+    },
+    {
+      "id": "noi:googleaistudio",
+      "parent": "noi@ai",
+      "text": "Google AI Studio",
+      "url": "https://aistudio.google.com"
+    },
+    {
+      "id": "noi:gemini",
+      "parent": "noi@ai",
+      "text": "Gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "noi:chatgpt",
+      "parent": "noi@ai",
+      "text": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "id": "noi:claude",
+      "parent": "noi@ai",
+      "text": "Claude",
+      "url": "https://claude.ai"
+    },
+    {
+      "id": "noi:deepseek",
+      "parent": "noi@ai",
+      "text": "DeepSeek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "Grok",
+      "url": "https://grok.com"
+    },
+    {
+      "id": "noi:qwen",
+      "parent": "noi@ai",
+      "text": "Qwen",
+      "url": "https://chat.qwen.ai"
+    },
+    {
+      "id": "noi:perplexity",
+      "parent": "noi@ai",
+      "text": "Perplexity",
+      "url": "https://www.perplexity.ai"
+    },
+    {
+      "id": "noi:githubcopilot",
+      "parent": "noi@ai",
+      "text": "GitHub Copilot",
+      "url": "https://github.com/copilot"
+    },
+    {
+      "id": "noi:huggingchat",
+      "parent": "noi@ai",
+      "text": "HuggingChat",
+      "url": "https://huggingface.co/chat"
+    },
+    {
+      "id": "noi:imarena",
+      "parent": "noi@ai",
+      "text": "Imarena",
+      "url": "https://lmarena.ai/leaderboard"
+    },
+    {
+      "id": "noi:multimodal",
+      "parent": "noi@ai",
+      "text": "多模态模型",
+      "url": "https://origin.eqing.tech/#/"
+    },
+    {
+      "id": "noi:github",
+      "parent": "noi@dev",
+      "text": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "id": "noi:replit",
+      "parent": "noi@dev",
+      "text": "Replit",
+      "url": "https://replit.com"
+    },
+    {
+      "id": "noi:huggingface",
+      "parent": "noi@dev",
+      "text": "Hugging Face",
+      "url": "https://huggingface.co"
+    },
+    {
+      "id": "noi:vscode",
+      "parent": "noi@dev",
+      "text": "VS Code",
+      "url": "https://vscode.dev"
+    },
+    {
+      "id": "noi:projectidx",
+      "parent": "noi@dev",
+      "text": "Project IDX",
+      "url": "https://idx.google.com"
+    },
+    {
+      "id": "noi:techresource",
+      "parent": "noi@community",
+      "text": "Technology resource website",
+      "url": "https://onehack.us/"
+    },
+    {
+      "id": "noi:hackernews",
+      "parent": "noi@community",
+      "text": "Hacker News",
+      "url": "https://news.ycombinator.com"
+    },
+    {
+      "id": "noi:youtube",
+      "parent": "noi@video",
+      "text": "YouTube",
+      "url": "https://www.youtube.com"
+    }
+  ]
+}
