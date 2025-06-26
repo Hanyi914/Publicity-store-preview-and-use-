@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
   "version": "0.3.1",
-  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+  "sync": "https://raw.githubusercontent.com/Hanyi914/Publicity-store-preview-and-use-/refs/heads/main/noi.mode.json",
   "modes": [
     {
       "id": "noi@ai",
